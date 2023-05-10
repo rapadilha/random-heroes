@@ -1,0 +1,22 @@
+{
+  "name": "random-heroes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "dev": "vite --open ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.7.5",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.5"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
